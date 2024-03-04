@@ -1,6 +1,6 @@
-#### Overview: ####
+### Overview: ###
 
-The idea of ​​this study is to analyze the probability of a customer accepting a promotional coupon while driving depending on different types of factors. I based my research on drivers who were unemployed since after analyzing the distribution of occupations, I realized that it was the most common occupation within the dataframe.
+The idea of ​​this study is to analyze the probability of a customer accepting a promotional coupon while driving depending on different types of factors. I based my research on drivers who were unemployed since after analyzing the distribution of occupations, I realized that it was the most common occupation within the dataframe what I found interesting.
 
 ### Analysis: ###
 
